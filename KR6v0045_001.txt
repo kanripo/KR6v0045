@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:21.075733
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:09
 #+TITLE: 大藏佛說守護大千國土經
 #+PROPERTY: CBETA_ID W04n0034
 #+PROPERTY: ID KR6v0045
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 04, No. 034
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0045_W_001-0289a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 大藏佛說守護大千國土經¶
 整理者　陳明光¶
 ¶
 
@@ -28,7 +28,7 @@
 錄，以供參考。此外，位於佛祖巖左300餘米的菩薩堡龕亦刻有¶
 相同經名。¶
 
-錄文¶
+* 〔錄文〕¶
 
 金罡寶山一寸地、一樹叢林、一錢物、一禽獸，一應¶
 用等，名立華□□□□□□□□□□四千會，每會轉大¶
@@ -50,7 +50,7 @@
 〔錄文完〕¶
 ¶
 
-附錄¶
+* 〔附錄〕¶
 ¶
 
 證是寶山一寸地土，一樹叢林，一錢物及飛禽雜類¶
